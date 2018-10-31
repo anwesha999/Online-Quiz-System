@@ -5,7 +5,7 @@ Online Quiz System built in Java Language.
 
 ### Objective of the project
 To get started with simple online quiz system. The 2 quiz systems are made here. 
-1. Gui Based which supports features like bookmarks, next, previous and getting the final score based on the marks scored in the quiz.
+1. Graphical User Interface Based which supports features like bookmarks, next, previous and getting the final score based on the marks scored in the quiz.
 2. Text Based is also made to help understand the algorithm behind or flow of work. It too computes the final score of the quiz system.
 
 ### Output:
