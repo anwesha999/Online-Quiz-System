@@ -14,7 +14,7 @@ To get started with simple online quiz system. The 2 quiz systems are made here.
 
 ### Open and Run Project in Netbeans
 
-1. Clone or fork the repo.
+1. Clone or fork the repository.
 
 2. Import the project to your workspace. 
 
