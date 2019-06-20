@@ -28,7 +28,7 @@ To get started with simple online quiz system. The 2 quiz systems are made here.
   
   E. The other text based quiz based system could be run by clicking on App.java
 
-At this point, you *should* be able to build and run the project in the Netbeans
+At this point, you *should* be able to build and run the project using Netbeans at the very least.
 
-if you are facing issues feel free to raise the issue.
+If you happen to run into any problem at all feel free to open up a [new issue](https://github.com/anwesha999/Online-Quiz-System/issues/new).
 
